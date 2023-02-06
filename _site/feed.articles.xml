@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+>
+	<channel>
+		<title> - Articles</title>
+		<description>Technical blog made by developer for developers. Computer Science, Data Structures Algorithms, Networking, Artificial Intelligence and Coding Interview Prep.</description>
+		<sy:updatePeriod>daily</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.articles.xml" rel="self" type="application/rss+xml" />
+		<lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0530</lastBuildDate>
+		
+			
+			<item>
+				<title>Open External Links in a New Window Using JavaScript</title>
+				
+					<description>&lt;p&gt;This is a quick post showing how to use JavaScript to make links to external websites open in a new window (or tab) instead of in the current window. This is useful for &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Jekyll&lt;/code&gt; blogs because the Markdown converters don’t do this for you. I included two versions: one that uses straight JavaScript, and one that requires &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jQuery&lt;/code&gt; but is shorter.&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 27 Dec 2022 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/posts/open-external-links-in-a-new-window-using-javascript/</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/open-external-links-in-a-new-window-using-javascript/</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Text File Compressor De-compressor Web App</title>
+				
+					<description>&lt;ul&gt;
+  &lt;li&gt;This webapp uses Huffman Coding for Text Compression and De-compression.&lt;/li&gt;
+  &lt;li&gt;Made with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;JavaScript&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;HTML5&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CSS3&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Live Demo: &lt;a href=&quot;https://samirpaul1.github.io/txt-compressor/&quot;&gt;&lt;strong&gt;samirpaul1.github.io/txt-compressor&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Repository: &lt;a href=&quot;https://github.com/SamirPaul1/txt-compressor&quot;&gt;github.com/SamirPaul1/txt-compressor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				
+				<pubDate>Sun, 25 Dec 2022 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/posts/text-file-compressor-de-compressor-web-app/</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/text-file-compressor-de-compressor-web-app/</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Some of My Online Courses Certificates</title>
+				
+					<description>&lt;h1 id=&quot;-some-of-my-verified-skills-and-certifications&quot;&gt;✅ Some of my verified skills and certifications:&lt;/h1&gt;
+</description>
+				
+				<pubDate>Sat, 12 Nov 2022 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/posts/some-of-my-online-courses-certificates/</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/some-of-my-online-courses-certificates/</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Online PDF Compression Tool</title>
+				
+					<description>&lt;h3 id=&quot;about-the-project&quot;&gt;About The Project:&lt;/h3&gt;
+</description>
+				
+				<pubDate>Sat, 29 Oct 2022 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/posts/online-pdf-compression-tool/</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/online-pdf-compression-tool/</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Lists of Technical Interview Questions</title>
+				
+					<description>&lt;blockquote&gt;
+  &lt;p&gt;A curated list of lists of technical interview questions.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+				
+				<pubDate>Wed, 26 Oct 2022 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/posts/lists-of-technical-interview-questions/</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/lists-of-technical-interview-questions/</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>List of Python Frameworks Libraries Software and Resources</title>
+				
+					<description>&lt;blockquote&gt;
+  &lt;p&gt;A curated list of awesome Python frameworks, libraries, software and resources.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+				
+				<pubDate>Wed, 26 Oct 2022 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/posts/list-of-python-frameworks-libraries-software-and-resources/</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/list-of-python-frameworks-libraries-software-and-resources/</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Leetcode Solutions Cheatsheet</title>
+				
+					<description>&lt;h2 id=&quot;quick-access-links&quot;&gt;Quick Access Links&lt;/h2&gt;
+&lt;h3 id=&quot;leetcode&quot;&gt;LeetCode&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;LeetCode - CheatSheet
+    &lt;ul&gt;
+      &lt;li&gt;Getting Started
+        &lt;ul&gt;
+          &lt;li&gt;Prerequisites&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Built With&lt;/li&gt;
+      &lt;li&gt;Authors&lt;/li&gt;
+      &lt;li&gt;Acknowledgments&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quick-access-links&quot;&gt;Quick Access Links&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#leetcode&quot;&gt;LeetCode&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#1-two-sum&quot;&gt;1-Two Sum&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#brute-force&quot;&gt;Brute Force&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#one-pass-hash-table&quot;&gt;One Pass Hash Table&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#2-add-two-numbers&quot;&gt;2-Add Two Numbers&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#elementary-math-solution&quot;&gt;Elementary Math Solution&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#3-substring-no-repeat&quot;&gt;3-Substring No Repeat&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#brute-force-1&quot;&gt;Brute Force&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sliding-window&quot;&gt;Sliding Window&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sliding-window-optimized&quot;&gt;Sliding Window Optimized&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#4-median-of-two-sorted-arrays&quot;&gt;4-Median of Two Sorted Arrays&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#recursive-approach&quot;&gt;Recursive Approach&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#5-longest-palindromic-substring&quot;&gt;5-Longest Palindromic Substring&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#longest-common-substring&quot;&gt;Longest Common Substring&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#brute-force-2&quot;&gt;Brute Force&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#dynamic-programming&quot;&gt;Dynamic Programming&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#expand-around-center&quot;&gt;Expand Around Center&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#manachers-algorithm&quot;&gt;Manacher’s Algorithm&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#6-zigzag-conversion&quot;&gt;6-ZigZag Conversion&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#sort-by-row&quot;&gt;Sort by Row&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#visit-by-row&quot;&gt;Visit by Row&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#7-reverse-integer&quot;&gt;7-Reverse Integer&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#pop-and-push-digits-and-check-before-overflow&quot;&gt;Pop and Push Digits and Check Before Overflow&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#8-string-to-integer-atoi&quot;&gt;8-String to Integer (atoi)&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#ascii-conversion&quot;&gt;ASCII Conversion&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#9-palindrome-number&quot;&gt;9-Palindrome Number&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#revert-half-of-the-number&quot;&gt;Revert Half of the Number&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#10-regular-expression-matching&quot;&gt;10-Regular Expression Matching&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#recursion&quot;&gt;Recursion&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#dynamic-programming-1&quot;&gt;Dynamic Programming&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#non-recursive&quot;&gt;Non-Recursive&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#11-container-with-the-most-water&quot;&gt;11-Container with the Most Water&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#brute-force-3&quot;&gt;Brute Force&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#two-pointer-approach&quot;&gt;Two Pointer Approach&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#12-integer-to-roman&quot;&gt;12-Integer To Roman&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#string-array&quot;&gt;String Array&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#13-roman-to-integer&quot;&gt;13-Roman to Integer&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#character-array&quot;&gt;Character Array&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#14-longest-common-prefix&quot;&gt;14-Longest Common Prefix&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#horizontal-scanning&quot;&gt;Horizontal Scanning&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#vertical-scanning&quot;&gt;Vertical Scanning&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#divide-and-conquer&quot;&gt;Divide and Conquer&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#binary-search&quot;&gt;Binary Search&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#further-thoughts&quot;&gt;Further Thoughts&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#15-3sum&quot;&gt;15-3Sum&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#sorted-array&quot;&gt;Sorted Array&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#16-3sum-closest&quot;&gt;16-3Sum Closest&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#3-pointers&quot;&gt;3 Pointers&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#17-letter-combinations-of-a-phone-number&quot;&gt;17-Letter Combinations of a Phone Number&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#backtracking&quot;&gt;Backtracking&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#first-in-first-out-fifo-queue&quot;&gt;First In First Out (FIFO) Queue&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#18-4sum&quot;&gt;18-4Sum&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#sorted-array-1&quot;&gt;Sorted Array&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#19-remove-nth-node-from-end-of-list&quot;&gt;19-Remove Nth Node From End of List&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#two-pass-algorithm&quot;&gt;Two Pass Algorithm&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#one-pass-algorithm&quot;&gt;One Pass Algorithm&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#20-valid-parentheses&quot;&gt;20-Valid Parentheses&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#counting-method&quot;&gt;Counting method&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#stacks&quot;&gt;Stacks&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#21-merge-two-sorted-lists&quot;&gt;21-Merge Two Sorted Lists&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#recursive&quot;&gt;Recursive&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#non-recursive-1&quot;&gt;Non-Recursive&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#22-generate-parentheses&quot;&gt;22-Generate Parentheses&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#brute-force-4&quot;&gt;Brute Force&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#backtracking-1&quot;&gt;Backtracking&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#closure-number&quot;&gt;Closure Number&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#23-merge-k-sorted-lists&quot;&gt;23-Merge k Sorted Lists&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#brute-force-5&quot;&gt;Brute Force&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#146-lru-cache&quot;&gt;146-LRU Cache&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				
+				<pubDate>Wed, 26 Oct 2022 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/posts/leetcode-solutions-cheatsheet/</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/leetcode-solutions-cheatsheet/</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Curated List of Project Based Tutorials</title>
+				
+					<description>&lt;h1 id=&quot;project-based-learning&quot;&gt;Project Based Learning&lt;/h1&gt;
+</description>
+				
+				<pubDate>Wed, 26 Oct 2022 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/posts/curated-list-of-project-based-tutorials/</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/curated-list-of-project-based-tutorials/</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>System Design Course</title>
+				
+					<description>&lt;h1 id=&quot;system-design-course&quot;&gt;System Design Course&lt;/h1&gt;
+</description>
+				
+				<pubDate>Tue, 25 Oct 2022 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/posts/system-design-course/</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/system-design-course/</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Data Structures and Algorithms for Coding Interview</title>
+				
+					<description>&lt;p&gt;&lt;b&gt; Repository Link: &lt;a href=&quot;https://github.com/SamirPaul1/DSAlgo&quot;&gt;https://github.com/SamirPaul1/DSAlgo&lt;/a&gt; &lt;/b&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;In this repository, I have stored solutions to various problems and concepts of &lt;strong&gt;Data Structures and Algorithms&lt;/strong&gt; in Python in a structured manner.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+				
+				<pubDate>Tue, 25 Oct 2022 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/posts/data-structures-and-algorithms-for-coding-interview/</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/data-structures-and-algorithms-for-coding-interview/</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Computer Networks Notes</title>
+				
+					<description>&lt;h1 id=&quot;chapter-1-computer-networks-and-the-internet&quot;&gt;Chapter 1: Computer Networks and the Internet&lt;/h1&gt;
+</description>
+				
+				<pubDate>Tue, 25 Oct 2022 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/posts/computer-networks-notes/</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/computer-networks-notes/</guid>
+			</item>
+			
+		
+			
+			<item>
+				<title>Complete Computer Science Study Plan to Become a Software Engineer</title>
+				
+					<description>&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+</description>
+				
+				<pubDate>Tue, 25 Oct 2022 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/complete-computer-science-study-plan-to-become-a-software-engineer/</guid>
+			</item>
+			
+		
+	</channel>
+</rss>
